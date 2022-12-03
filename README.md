@@ -1,8 +1,8 @@
 # app-dev
 My first repository
 
-![![image](https://user-images.githubusercontent.com/103440637/205441395-a6ade4c9-2d9c-47e2-a46a-498287bac949.png)
-](image.png)
+![![image]([https://user-images.githubusercontent.com/103440637/205441395-a6ade4c9-2d9c-47e2-a46a-498287bac949.png](https://m.media-amazon.com/images/M/MV5BNWMxYTZlOTUtZDExMi00YzZmLTkwYTMtZmM2MmRjZmQ3OGY4XkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_UY1200_CR92,0,630,1200_AL_.jpg))
+](image.jpg)
 
 # 300 Spartans 
 **Main Characters** 
