@@ -2,10 +2,10 @@
 My first repository
 
 ![![image](https://user-images.githubusercontent.com/103440637/205441395-a6ade4c9-2d9c-47e2-a46a-498287bac949.png)
-](image.jpg)
+](image.png)
 
 # 300 Spartans 
-** Main Characters **
+**Main Characters** 
 
 1. King Leonidas
 2. King Xerxes
