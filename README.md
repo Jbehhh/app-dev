@@ -1,9 +1,6 @@
 # app-dev
 My first repository
 
-![![image]([https://user-images.githubusercontent.com/103440637/205441395-a6ade4c9-2d9c-47e2-a46a-498287bac949.png](https://m.media-amazon.com/images/M/MV5BNWMxYTZlOTUtZDExMi00YzZmLTkwYTMtZmM2MmRjZmQ3OGY4XkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_UY1200_CR92,0,630,1200_AL_.jpg))
-](image.jpg)
-
 # 300 Spartans 
 **Main Characters** 
 
@@ -17,3 +14,4 @@ My first repository
 
 **Brief Summary**
 In 480 B.C. a state of war exists between Persia, led by King Xerxes (Rodrigo Santoro), and Greece. At the Battle of Thermopylae, Leonidas (Gerard Butler), king of the Greek city state of Sparta, leads his badly outnumbered warriors against the massive Persian army. Though certain death awaits the Spartans, their sacrifice inspires all of Greece to unite against their common enemy.
+
